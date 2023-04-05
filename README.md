@@ -6,5 +6,7 @@ BITCAMP-PYTHON-LISTS
 4. https://github.com/Lussskki/BITCAMP-PYTHON-CHALLENGE-WEEK2-COURSE
 5. https://github.com/Lussskki/BITCAMP-PYTHON-CHALLENGE-WEEK3-COURSE
  
-Here is all project.
-1. https://github.com/Lussskki/PYTHON-GAME-QUIZ - Game Quiz made by me. 
+Here is projects by me.
+1. https://github.com/Lussskki/PYTHON-GAME-QUIZ - Game Quiz
+2. https://github.com/Lussskki/FASTAPI-PYTHON - Rest api
+
