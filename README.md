@@ -12,4 +12,5 @@ Here is projects by me.
 3. https://github.com/Lussskki/PYTHON_GAME - SpaceWar Game 
 4. https://github.com/Lussskki/PYTHON_GAME1 - Brick Evasiver
 5. https://github.com/Lussskki/PYTHONN_GAME2 - Fast as hell
+6. https://github.com/Lussskki/PYTHON-TRAINING-DJANGO - Django web application 
 
