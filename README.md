@@ -9,8 +9,8 @@ BITCAMP-PYTHON-LISTS
 Here is projects by me.
 1. https://github.com/Lussskki/PYTHON-GAME-QUIZ - Quiz Game
 2. https://github.com/Lussskki/FASTAPI-PYTHON - Rest api
-3. https://github.com/Lussskki/PYTHON_GAME - SpaceWar Game 
-4. https://github.com/Lussskki/PYTHON_GAME1 - Brick Evasiver
-5. https://github.com/Lussskki/PYTHONN_GAME2 - Fast as hell
+3. https://github.com/Lussskki/PYTHON_GAME3_SPACEWAR - SpaceWar Game 
+4. https://github.com/Lussskki/PYTHON_GAME1_BRICK_EVASIVER - Brick Evasiver
+5. https://github.com/Lussskki/PYTHON_GAME2_FAST_AS_HELL - Fast as hell
 6. https://github.com/Lussskki/PYTHON-TRAINING-DJANGO - Django web application 
 
