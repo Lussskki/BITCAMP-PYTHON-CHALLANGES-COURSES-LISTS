@@ -13,4 +13,5 @@ Here is projects by me.
 4. https://github.com/Lussskki/PYTHON_GAME1_BRICK_EVASIVER - Brick Evasiver
 5. https://github.com/Lussskki/PYTHON_GAME2_FAST_AS_HELL - Fast as hell
 6. https://github.com/Lussskki/PYTHON-TRAINING-DJANGO - Django web application 
+7. https://github.com/Lussskki/PYTHON_MOUSE_CONTROLLED_WITH_EYE - Computer vision, mouse controlled with eye
 
